@@ -1,5 +1,0 @@
-{
-  "name": "班级信息管理平台",
-  "description": "基于HTML/CSS/JS/JSON构建的班级学生信息管理系统，支持增删改查与数据统计。",
-  "requestFramePermissions": []
-}
